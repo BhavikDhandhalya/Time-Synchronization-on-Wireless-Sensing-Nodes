@@ -1,0 +1,17 @@
+COMPONENT=BaseStationC
+CFLAGS += -DCC2420_NO_ACKNOWLEDGEMENTS
+CFLAGS += -DCC2420_NO_ADDRESS_RECOGNITION
+CFLAGS += -DTASKLET_IS_TASK
+
+UILD_EXTRA_DEPS += TestSerial.class
+CLEAN_EXTRA = *.class TestSerialMsg.java
+
+TestSerial.class: $(wildcard *.java) TestSerialMsg.java
+        javac *.java
+
+TestSerialMsg.java:
+        mig java -target=null -java-classname=TestSerialMsg TestSerial.h TestSerialMsg -o $@
+
+
+include $(MAKERULES)
+

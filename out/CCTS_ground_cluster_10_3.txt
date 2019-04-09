@@ -1,0 +1,86 @@
+14
+end
+
+total iter = 14
+3  1 = 9.28246e+08  2 = 5.15225e+08  3 = 7.96611e+08  4 = 7.8733e+08  5 = 2.05287e+07  6 = 1.9574e+07  7 = 1.95255e+07  8 = 1.97117e+07  9 = 1.41521e+09  10 = 1.39918e+07 h_vc = 5.76069e+09 
+4  1 = 4.19973e+11  2 = 2.31578e+11  3 = 3.59931e+11  4 = 3.55696e+11  5 = 1.38073e+11  6 = 1.15698e+11  7 = 1.1456e+11  8 = 1.18925e+11  9 = 1.61612e+11  10 = 2.88734e+09 h_vc = -2.03916e+09 
+5  1 = 1.26415e+10  2 = 7.13729e+09  3 = 1.08872e+10  4 = 1.07636e+10  5 = 3.92759e+10  6 = 3.28478e+10  7 = 3.25211e+10  8 = 3.37749e+10  9 = 1.462e+10  10 = 4.24092e+08 h_vc = 1.85396e+11 
+6  1 = 3.98718e+11  2 = 2.60643e+11  3 = 3.5471e+11  4 = 3.51605e+11  5 = 4.58022e+11  6 = 3.97615e+11  7 = 3.94539e+11  8 = 4.06322e+11  9 = 1.57424e+11  10 = 9.29103e+10 h_vc = 3.28992e+10 
+7  1 = 7.02725e+10  2 = 6.6979e+10  3 = 6.92229e+10  4 = 6.91504e+10  5 = 1.31384e+11  6 = 1.2007e+11  7 = 1.19495e+11  8 = 1.21703e+11  9 = 4.81185e+10  10 = 6.29047e+10 h_vc = 3.01124e+11 
+8  1 = 7.15452e+10  2 = 1.21473e+11  3 = 8.74576e+10  4 = 8.85795e+10  5 = 8.20476e+10  6 = 9.85953e+10  7 = 9.94377e+10  8 = 9.62099e+10  9 = 1.77035e+11  10 = 1.82014e+11 h_vc = 1.098e+11 
+9  1 = 6.17148e+10  2 = 9.97649e+10  3 = 7.38419e+10  4 = 7.46975e+10  5 = 1.94551e+11  6 = 1.86521e+11  7 = 1.86113e+11  8 = 1.87677e+11  9 = 2.46147e+11  10 = 1.45907e+11 h_vc = 1.09565e+11 
+10  1 = 1.26144e+11  2 = 1.26905e+11  3 = 1.26386e+11  4 = 1.26406e+11  5 = 1.54628e+11  6 = 1.50192e+11  7 = 1.49967e+11  8 = 1.50835e+11  9 = 1.93847e+11  10 = 1.27736e+11 h_vc = 1.41838e+11 
+11  1 = 1.24161e+11  2 = 1.29044e+11  3 = 1.25717e+11  4 = 1.25827e+11  5 = 1.17144e+11  6 = 1.20074e+11  7 = 1.20224e+11  8 = 1.19651e+11  9 = 1.51279e+11  10 = 1.34787e+11 h_vc = 1.43319e+11 
+12  1 = 3.47168e+10  2 = 8.18291e+10  3 = 4.97322e+10  4 = 5.07906e+10  5 = 1.22048e+11  6 = 1.24872e+11  7 = 1.25016e+11  8 = 1.24466e+11  9 = 1.43468e+11  10 = 1.39053e+11 h_vc = 1.30985e+11 
+13  1 = 2.64447e+11  2 = 2.06135e+11  3 = 2.45863e+11  4 = 2.44552e+11  5 = 2.54186e+11  6 = 2.34514e+11  7 = 2.33512e+11  8 = 2.37348e+11  9 = 2.38398e+11  10 = 1.35019e+11 h_vc = 9.95189e+10 
+14  1 = 1.27096e+11  2 = 1.22725e+11  3 = 1.25703e+11  4 = 1.25604e+11  5 = 3.66095e+10  6 = 4.99607e+10  7 = 5.06401e+10  8 = 4.80354e+10  9 = 1.04414e+11  10 = 1.17269e+11 h_vc = 2.2007e+11 
+14
+
+h_estimated_skew = 129.415  h_estimated_offset = 2.15255e+11
+m_id = 1 m_estimated_skew = 79.3515 m_estimated_offset = -1.65371e+11
+m_id = 2 m_estimated_skew = 79.3501 m_estimated_offset = -3.79119e+10
+m_id = 3 m_estimated_skew = 79.351 m_estimated_offset = -1.24748e+11
+m_id = 4 m_estimated_skew = 79.3514 m_estimated_offset = -1.21885e+11
+m_id = 5 m_estimated_skew = 71.0887 m_estimated_offset = -2.18382e+11
+m_id = 6 m_estimated_skew = 71.0902 m_estimated_offset = -1.62905e+11
+m_id = 7 m_estimated_skew = 71.0895 m_estimated_offset = -1.60082e+11
+m_id = 8 m_estimated_skew = 71.0891 m_estimated_offset = -1.70904e+11
+m_id = 9 m_estimated_skew = 86.6308 m_estimated_offset = -1.38984e+11
+m_id = 10 m_estimated_skew = 0.000244141 m_estimated_offset = 1.17269e+11
+Testing ...
+
+Iteration = 1 ERROR = 1.4872e+11
+Iteration = 2 ERROR = 1.48848e+11
+Iteration = 3 ERROR = 1.48891e+11
+Iteration = 4 ERROR = 1.49017e+11
+Iteration = 5 ERROR = 1.4906e+11
+Iteration = 6 ERROR = 1.49101e+11
+Iteration = 7 ERROR = 1.49145e+11
+Iteration = 8 ERROR = 1.4923e+11
+Iteration = 9 ERROR = 1.4927e+11
+Iteration = 10 ERROR = 1.49354e+11
+Iteration = 11 ERROR = 1.49398e+11
+Iteration = 12 ERROR = 1.4944e+11
+Iteration = 13 ERROR = 1.49482e+11
+Iteration = 14 ERROR = 1.49565e+11
+Iteration = 15 ERROR = 1.49651e+11
+Iteration = 16 ERROR = 2.30558e+11
+Iteration = 17 ERROR = 2.30066e+11
+Iteration = 18 ERROR = 2.3016e+11
+Iteration = 19 ERROR = 2.30207e+11
+Iteration = 20 ERROR = 2.30252e+11
+Iteration = 21 ERROR = 2.30298e+11
+Iteration = 22 ERROR = 2.30345e+11
+Iteration = 23 ERROR = 2.30448e+11
+Iteration = 24 ERROR = 2.3053e+11
+Iteration = 25 ERROR = 2.30577e+11
+Iteration = 26 ERROR = 2.30625e+11
+Iteration = 27 ERROR = 2.30671e+11
+Iteration = 28 ERROR = 2.30763e+11
+Iteration = 29 ERROR = 2.30808e+11
+Iteration = 30 ERROR = 2.30855e+11
+Iteration = 31 ERROR = 2.30902e+11
+Iteration = 32 ERROR = 2.30995e+11
+Iteration = 33 ERROR = 2.84934e+11
+Iteration = 34 ERROR = 2.83501e+11
+Iteration = 35 ERROR = 2.83577e+11
+Iteration = 36 ERROR = 2.83654e+11
+Iteration = 37 ERROR = 2.83731e+11
+Iteration = 38 ERROR = 2.83809e+11
+Iteration = 39 ERROR = 2.83886e+11
+Iteration = 40 ERROR = 2.84036e+11
+Iteration = 41 ERROR = 2.8419e+11
+Iteration = 42 ERROR = 2.84272e+11
+Iteration = 43 ERROR = 2.84348e+11
+Iteration = 44 ERROR = 2.84426e+11
+Iteration = 45 ERROR = 2.84503e+11
+Iteration = 46 ERROR = 2.84581e+11
+Iteration = 47 ERROR = 2.84731e+11
+Iteration = 48 ERROR = 2.84813e+11
+Iteration = 49 ERROR = 2.84889e+11
+Iteration = 50 ERROR = 2.84969e+11
+Iteration = 51 ERROR = 2.85043e+11
+Iteration = 52 ERROR = 2.85122e+11
+Iteration = 53 ERROR = 2.85199e+11
+Iteration = 54 ERROR = 2.85276e+11
+54
